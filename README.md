@@ -1,4 +1,4 @@
-# AntiWhalesSmartContract
+# AntiWhalesSmartContract 🐳
 
 This repository contains the smart contract code for Anti-Whale-Contract, an ERC20-compatible token deployed on the Binance Smart Chain (BSC). The Mxdum token is designed to provide a decentralized digital currency solution with built-in features for tax deductions, transaction limits, and wallet restrictions.
 Key Features:
